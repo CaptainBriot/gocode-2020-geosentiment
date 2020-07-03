@@ -1,0 +1,82 @@
+SibiNexus
+National Science Foundation Grant Pitch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Technology Innovation. (Up to 500 words)
+We at SibiNexus (Social Impact Bond Inc.) have undertaken the task of democratizing the planning and financing of municipal projects. Our approach seeks to embolden citizens, special-interests (e.g. corporate, real-estate, non-profits), and city governments alike to contribute public project proposals to a common marketplace. Here, engaged citizens propose, discuss, vote-on, and optionally stake dollars on project proposals that matter most to their communities. Citizen activity on the SibiNexus platform is presented to city governments and special-interests so that they can gauge the nature of support for specific projects. Elected officials would then use this information to decide which projects to finance (ideally with social impact bonds). Money staked by citizens would be used as principal-down for these bonds, eventually generating a return for the individuals who invested. SibiNexus therefore intermediates citizen participation in the project selection process and ultimately produces superior project investment decisions by local governments.
+SibiNexus induces “agile governance” by standardizing project proposal processes and parameters. First, a city’s project acceptance criteria are required parameters for any projects proposed on the SibiNexus platform. Second, SibiNexus automatically classifies projects on the common marketplace across various public-infrastructure themes, making it possible to discover conflicts or complements of interest between projects over space and time. Conflicts and complements of interest across project proposals are often not fully realized between special-interests until project proposals go up to vote in city council. Special-interests may have neglected important demographics over space that are starkly opposed to their project proposals; citizens may be unaware of advocate groups that support project proposals similar to their own. SibiNexus makes it easy for users to explore possible opportunity costs in any city infrastructural project undertaking. Citizens can therefore use SibiNexus as a research tool to discover alternative project undertakings that might otherwise have been neglected or obfuscated.
+SibiNexus aims to consolidate project discourses found on insular echo-chamber forums (e.g. Nextdoor.com) into a single platform by modeling such discourses into common themes. Project proposals on the platform are either collected from disparate forum discourses and “fit” to a machine-learned model of a particular topic/theme in the urban planning literature (e.g. “Autonomous Vehicles”) or are manually added by platform users. Each topic/theme’s model is carefully constructed from a lexicon that accurately captures economic logic and sentiments “for” or “against” that particular topic/theme. SibiNexus aims to help citizens/special-interests drill down into any public-infrastructure theme in order to explore important conflicts or complements of interest.
+SibiNexus topics/themes are geocoded such that they can be used in a Geographic Information System. Any engaged citizens may freely use SibiNexus to explore their favorite project proposals on a map. Citizens may discover conflicts with other projects that have been proposed unknowingly in their own neighborhoods. Contrastingly, special-interests and cities may use SibiNexus for identifying demographics that may be for or against their project proposals. SibiNexus ultimately acts as a multi-sided platform that aims to bring every special-interest and citizen to the seats of city council.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Technical Objectives and Challenges. (Up to 500 words)
+    SibiNexus is a multi-sided website platform that provides “free” project exploration tools to citizens while offering data-subscription services to cities and special-interests. Citizens and special-interests react to one another on SibiNexus and use the platform in separate ways. Free tools allow users to identify public-infrastructure projects classified by a theme (e.g. bicycle lanes) and geolocation (e.g. neighborhood). The subscription tool correlates demographic variables to measures of the project proposal’s support. Project proposal support is measured in terms of votes and staked dollars (optional contributions held in escrow) from SibiNexus users on proposed projects. SibiNexus models the potential conflict or complements of interest between project proposals across affected geographies, which empowers users to gauge potential affinities between project proposals over space. These “matching and contrasting” tools are also subscription features.
+Each public-infrastructure project proposal sits in the SibiNexus marketplace. This marketplace retroactively identifies themes/topics from project proposal discourses found on disparate internet discussion forums. Topic identification implies gathering historic forum discourse data and modeling it in order to identify central themes. “Topic identification” requires a backend machine learning application that models the lexicons of special-interest forum conversations. Specifically, this means training word-cloud models of topics/themes with carefully researched sets of lexicons, which contain the economic and sentiment logic surrounding a topic/theme. For example, take the theme ”Bicycle Lane” where the sentiment equals ”Proponent”. The word-cloud model for this cross-section might include phrases like “safety” or “C02 reduction”. If sentiment equals ”Opponent” here, phrases might include road-centric expressions like “traffic congestion”.
+Topic identification pre-populates the SibiNexus common marketplace, leading to network effects on the platform. Citizens can study retroactively added topics/themes to the platform, inspiring them to directly propose on the common marketplace. SibiNexus allows end-users to actively create narrowly defined project proposals on the marketplace in a guided process. Citizens manually describe the pros, cons, and anticipated economic impacts of their proposed projects to help locate the project in well-defined thematised lexicon.
+Topic identification is therefore a critical R&D process: forum discourses are thematically identified, geocoded, and their lexicons carefully modelled. Both cities and special-interests either utilize these subscription data to identify proponents for their projects or potential conflicts of interest. Since project support is transparent on the common marketplace, planners can gauge the social impact of proposed projects as they are related to one another over space and time. 
+Lastly, the SibiNexus project aims to standardize parameters that are common to all project proposals. Project proposal parameters might include “Study Goals”, “Study Map & Limits”, and “Public-Infrastructure Type”. R&D is undertaken to identify cities’ minimum acceptable criteria for project proposal parameters. The values for these parameters, either user-provided or modelled from disparate forum discussions, are not totally comprehensive, but are actionable. By “parameterizing” project proposals in the SibiNexus marketplace, proposals can be compared apples-to-apples and refined by public officials before considered for a social impact bond. SibiNexus thus engenders a sense of trust between citizens, special-interests, and cities by offering complete and standardized information transparency during project-selection decision making processes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Market Opportunity. (Up to 250 words)
+    Through SibiNexus, citizens can weigh the opportunity costs of their city’s public-infrastructure project selections. Citizens can use SibiNexus’s project exploration tool to retroactively study the support bases of projects in terms of community-votes, sophistication of underlying discourse, and staked funds. Citizens can create alerts/calls-to-action for project proposals that affect geographies that they care about. Moreover, citizens use SibiNexus to propose their own projects and can rely on the tool to “parameterize” their project proposals into actionable ideas with broad viewership.
+Special-interests pay data-subscription fees to identify or contribute to opponent/proponent projects generated from public discourses. Special-interests stake money on projects in order to highlight them on the platform. Staking supports the formation of project associations, which permit vote/fund sharing across complementary projects. A property developer’s project in a multi-family zoned area might also use staking to gauge opportunities for future developments by identifying demographic cross-sections that were historically amicable to other successful multi-family-use property developments.
+City officials use SibiNexus to measure project buy-in (via votes/staking), aiding in the shortlisting of projects. Projects that are supported by few highly resourceful individuals may be viewed as suspect in comparison to projects with broad but resource-scarce support bases. Projects that are staked with dollars offer principal-down for any social impact bond that finances those projects.  Cities can then tap-into projects on the SibiNexus marketplace and use staked funds to finance their project. This last value-add provides passive income to the SibiNexus model.
+
+
+
+
+
+
+
+4. The Company and Team. (Up to 250 words)
+SibiNexus aims to register itself as a 501c3 non-profit organization. Our business development operations are under the purview of Ryan Keeney, an M.S. of Geographic Information Science from the University of Denver and co-founder of YIMBY Denver, an urban planning advocacy nonprofit. SibiNexus extends the responsibilities of city planners by empowering them with information. As such, Brian Byrd, a Master of Regional Planning at Cornell University advises SibiNexus on requests for proposal to various cities.
+    SibiNexus software engineering is headed by CTO, Romain Briot, a full-stack engineer with extensive Python experience. Devops engineering and infrastructure maintenance is under the purview of Nathan Carlson, also a full-stack engineer, and front-end web development is headed by Griff Ciluffo.
+    The SibiNexus advisory team is responsible for marketing, legal, and financial tasks. Digital marketing tasks are headed by Nick Capute at Front Line Development, Inc. Legal advice is primarily provided by Vincent Bezares, J.D. from Cornell University. Accounting and financial analysis is headed by Alex Elliot, CFO and former founder of Bitfract, a cryptocurrency investment platform.
+    Finally, the responsibilities of CEO and data analytics rest with me, Johannes Plambeck, M.S. Regional Science from Cornell University.
+    Partnerships with customer support providers, smart-contract platforms for staking and escrow management services, project management consultancies, and financial securities brokerages will be considered at a later time.
+
+ 
