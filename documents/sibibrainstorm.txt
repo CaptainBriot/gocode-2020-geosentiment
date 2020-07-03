@@ -1,0 +1,368 @@
+# Denver Entrepreneurship Resources:
+1) https://www.denvergov.org/content/denvergov/en/denver-office-of-economic-development/build-your-business.html
+2) https://www.denvergov.org/content/denvergov/en/denver-office-of-economic-development/build-your-business/start-your-business.html
+3) https://www.denvergov.org/content/dam/denvergov/Portals/690/BuildYourBusiness/BusDev%20Tooklit%20032619.pdf
+
+Synopsis:
+- Pursuing a business idea that involves creating a marketplace-platform for city infrastructural projects that can be utilized by citizens and municipalities for identifying candidate projects for social impact bonds. 
+- Cities and special interests get data on what their voters are interested in
+
+#-----------------------------------------------------------------------------------------------#
+# Concepts:
+
+- Long term engagement -> ??
+- connecting idea with funds (Crowdfunding) -> Kickstarter
+- Facilitating bond creation -> Morgan Stanley
+- Saving/investing money -> Bank
+
+# the underwriter and the borrower collectively and dynamically come up with bonds by being able to actively evaluate opportunity costs in a crowdsourced open market place.
+
+A (synonym) for B (us)
+
+city
+community
+ideas
+project
+improve
+relationship
+dynamic
+invest
+marketplace
+opportunity
+
+Keywords:
+- Urban Nexus
+- Sit-In on City Council
+- GoFundMe for City infrastructural project
+
+#-----------------------------------------------------------------------------------------------#
+# Agile Governance:
+https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/
+
+The impact on government
+
+As the physical, digital, and biological worlds continue to converge, new technologies and platforms will increasingly enable citizens to engage with governments, voice their opinions, coordinate their efforts, and even circumvent the supervision of public authorities. Simultaneously, governments will gain new technological powers to increase their control over populations, based on pervasive surveillance systems and the ability to control digital infrastructure. On the whole, however, governments will increasingly face pressure to change their current approach to public engagement and policymaking, as their central role of conducting policy diminishes owing to new sources of competition and the redistribution and decentralization of power that new technologies make possible.
+
+Ultimately, the ability of government systems and public authorities to adapt will determine their survival. If they prove capable of embracing a world of disruptive change, subjecting their structures to the levels of transparency and efficiency that will enable them to maintain their competitive edge, they will endure. If they cannot evolve, they will face increasing trouble.
+
+This will be particularly true in the realm of regulation. Current systems of public policy and decision-making evolved alongside the Second Industrial Revolution, when decision-makers had time to study a specific issue and develop the necessary response or appropriate regulatory framework. The whole process was designed to be linear and mechanistic, following a strict “top down” approach.
+
+But such an approach is no longer feasible. Given the Fourth Industrial Revolution’s rapid pace of change and broad impacts, legislators and regulators are being challenged to an unprecedented degree and for the most part are proving unable to cope.
+
+How, then, can they preserve the interest of the consumers and the public at large while continuing to support innovation and technological development? By embracing “agile” governance, just as the private sector has increasingly adopted agile responses to software development and business operations more generally. This means regulators must continuously adapt to a new, fast-changing environment, reinventing themselves so they can truly understand what it is they are regulating. To do so, governments and regulatory agencies will need to collaborate closely with business and civil society.
+
+The Fourth Industrial Revolution will also profoundly impact the nature of national and international security, affecting both the probability and the nature of conflict. The history of warfare and international security is the history of technological innovation, and today is no exception. Modern conflicts involving states are increasingly “hybrid” in nature, combining traditional battlefield techniques with elements previously associated with nonstate actors. The distinction between war and peace, combatant and noncombatant, and even violence and nonviolence (think cyberwarfare) is becoming uncomfortably blurry.
+
+As this process takes place and new technologies such as autonomous or biological weapons become easier to use, individuals and small groups will increasingly join states in being capable of causing mass harm. This new vulnerability will lead to new fears. But at the same time, advances in technology will create the potential to reduce the scale or impact of violence, through the development of new modes of protection, for example, or greater precision in targeting.
+
+# Governments should invest in data platforms like SIBI, which help enable 4IR smart city transformations:
+https://atlas.dc.siemens.com/latestthinking/articles/where-smart-cities-and-industry-4-0-intersect/
+
+
+# Inclusive Growth
+# Secondary task of SIBI is to contribute to the platform-economy described in global mission 
+to promote inclusive growth.
+#-----------------------------------------------------------------------------------------------#
+
+I. Research Tasks
+
+look at really average cities
+
+different mindsets and incentives like home ownership
+
+identify how these interests are collectivized
+150K or less people
+
+start with smaller cities first and then larger ones. (pilot projects)
+
+
+
+II. Engineering Tasks
+
+- get forum api keys
+
+
+III. Revenue Models
+
+How well do you know your customer? Go for the ones that actually buy these data.
+Always Ask: Who pays; how much and how often?
+
+1) Revenue Model: Who will buy? How often? How soon? At what cost? How much from each customer.
+
+2) Gross Margin Model: How much revenue will be left after you paid the direct costs of what you have sold?
+
+3) Operating Model: Other than the costs of the goods or services you have sold, what else must you spend money on to support the sale?
+
+4) Working Capital Model: How early can you get customers to pay? Do you tie up money in inventory waiting to be sold? Can you push back paying suppliers till after your customers have paid?
+
+5) Investment Model: How much cash must you spend up front before enough customers give you enough business to cover your operating costs?
+
+
+IV. Machine Learning
+
+(1)
+* Identify community forums to scrape (e.g. NextDoor.com, Denverite, CPR, Denver Post, Instagram,
+Pinterest, LinkedIn)
+
+- Semantic word cloud
+- Natural Language Processing Cloud
+- Geocode word clouds
+
+(2)
+https://github.com/firmai/industry-machine-learning#finance
+- Hyperband and a/b testing
+
+(3)
+* "stupid interests" (e.g. NIMBY) interface on "community forum" spaces. 
+* "smart interests" avoid being harassed on "community forum" spaces and will take convo to "Twitter".
+* Create a "nonsense metric" that measure how unalligned a conversation is with a "word cloud" model.
+- discount the word-cloud in its overall weighing for neighborhood theme enthusiasm according to this 
+nonsense metric.
+- focus data scraping on twitter feeds!!!
+
+(4)
+* Need to identify lobbying group addresses and their interests as measured by dollars spent in DC.
+- If lobbying group interests are unaligned with alt-forum interests, there is more potential room 
+for direct-democracy to work along counter-themes. 
+- More potential direct-democracy is a political variable that can be used to empower 4IR and smart city
+interests.
+https://www.datakind.org/projects/let-the-sun-shine-on-politics
+https://www.opensecrets.org/lobby/top.php?indexType=f&showYear=2019
+
+
+V. Taxes
+
+- What kind of tax break to you get for investing in a Municipal Social Impact Bond?
+
+
+VI. Social Impact Bonds
+
+a. Description general social impact bonds
+b. Citizen Engagement Matrix:
+
+Issues You Care About | Survey Results | Ideas Market | Govt Issue Focus |
+--------------------------------------------------------------------------
+<manual entry>			<analytics>		<map left>	 <RFP?>	<map right>
+
+Limit by topic
+(data subscription)									 <monthly progress reports>
+
+List all projects
+after beta launch
+
+c. Citizen Engagement Map:
+- map contains polygons for "liked" areas and "disliked areas" for projects
+
+d. Government Engagement Matrix
+- Dashboards and histograms to illustrate project/theme support by neighborhood.
+
+e. Success Payments
+- Based on opportunity cost of not engaging in the project
+- Table: 
+KPI Value | Success Payment | Adjusted Probability | Weighted Success Payment
+=> impact and payment are therefore listed here.
+
+f. Debt Conversion
+- Could eventually use platform funds on cardano blockchain to earn natural interest.
+- ADA funds should be used in municipal debt conversion scheme. Foundations buy-back municipal
+bond debt and convert into social impact bonds. Debt is restructured internally by the foundation 
+into "longer-term" debt. Anybody who buys these social impact bonds is required to relinquish 30% 
+of face value discount to "success" payment discount from total opportunity cost expiry value of 
+the overarching social bond project. (see blue bonds)
+
+
+VII. SIBI Platform
+
+a. Activity Interest: More use on app more freq being entered into contest for extra payout from staked ada
+b.
+- Should have autoscrape for a theme that you're proposing an idea for. Looks up counter arguments within your neighborhood. Competing projects and the like. 
+- Should be able to propose projects and get them parameterized.
+
+c. Project Management Dashboard (RFP to city)
+i. Phase 1: Data -> Web collection of survey/forum data
+ii. Phase 1: Analysis -> Evaluate success-payment and project parameters
+iii. Phase 1: Engagement -> Willingness-to-pay
+
+iv. Phase 2: Data -> KPI identification for project evaluation
+v. Phase 2: Analysis -> Success probabilities (using econometrics)
+vi. Phase 2: Engagement -> Marketplace educational presentation to city
+
+vii. Phase 3: Data -> Summarize marketplace data to city planners
+viii. Phase 3: Analysis/Engagement -> Evaluate Program success with city planners
+	- partial failure
+	- pull-out
+	- continue
+
+1) diagram of bottom up alternative versus now. Sibo sits on where project params get vetted and dips into discourse to induce/stimulate and formalize political conversation. 
+2) city and influencers are primary customers. They are both part of the discourse while also being end users.
+3) need to rewrite the business canvas a few times and du-bundle by business type: a) relationship business, b) product Innovation business, c) infrastructure business. Each bundle aside from our primary channel (the platform) will require us to uncover a new partner to outsource a function.
+4) parternship upkeep is a key activity alongside data science for social impact and impact bond project management (param conforming for citizens/influencers and city planner platform engagement).
+5) we are a customer relationship management business type more than we are productive innovation.
+6) we are a platform key activity. Our platform is the second type of most commonly seen business pattern: multi-sided platform. It uses network effects to take advantage of economies of scope.
+7) according to business model generation, multi sided platforms typically harmonize both customer segments by offering a lure or free service to a certain segment. In this case, citizen influencers. We have an endogenous effect that may lead to scale economies since citizens are also influeners.
+8) see page 81 in business model generation to map out de-bundling of the two customer segments. We need to retain activities tied to both segments before incorporation.
+9) we primarily draw on intellectual and human capital
+10) we are customer segment dependent (cities vs influencers) and volume dependent (subscription)
+11) we rely on communities and cocreation in our customer relationships. We need to actively be forging and assessing our relationship with cities and influencers.
+12) our key resources are forums and influencers that use the platform for listing ideas while indirectly providing info on their demographics. Another key resource is the platform itself.
+13) figure out what our channels are. They need to be carefully debundled. More than 1 channel means a partnership will need to be discovered through business development.
+14) figure out our exact value proposition
+15) ml should be based on open business models
+
+
+# Platform features:
+
+Stake to talk? Using crypto?? Talkers can propose modifications to other peoples' projects. Requires voting protocol.
+Stake to spar with opposing project? Gets stakers to possibly change sides.
+Stake to affiliate project with another complementary one so that they share their staking pool. Requires voting protocol.
+Pooled funds are just escrow.
+SI Versus project featureSI geographic versus feature
+SI opportunities locator (Dem correlations)
+Free neighborhood watch
+Free issue saliency analysis
+Free call to action (huge interest is in your watch area. Maybe you should do something about it and go to city council)
+City egalitarian analyst
+
+VIII. VC Research
+
+What they do
+Warm intro
+Know who they are and do
+
+IX. Marketing
+a. Trade advertisement on NextDoor by selling word cloud analytics to special interests
+b. Research special interests using "circle of influence" diagram on lobbying research article by CPR.
+	- Real Estate development
+	- Event Hospitality
+	- Trades (building owners)
+	- Education
+	- Economic Development Corporations
+	- Corporations
+	- Politicians
+	- Mayor
+	- etc...
+
+c. Register company as lobbying organization (501c3?). Lobby forum concerns to "influencers".
+
+X. WEF Research
+	a. City-side happiness and growth potential
+	b. City forums on: what people are concerned about, map concerns to WEF projects and their grant costs.
+		i. choose issues
+		ii. map issues to related word-cloud issues on forums
+		iii. price these projects
+	c. Interviews:
+		i. ask cities what problems they have
+		ii. ask special interests and mayor what projects they believe they have
+	d. Value Discovery
+		i. induced demand analysis?
+		ii. value of data?
+		iii. sell to mayor and special interests
+		iv. citizens get on board (marketing on forums)
+		v. staking/voting market algorithm
+
+
+XI. Execution Steps
+1. write (RFP) proposal of word-cloud mapping of forum data to WEF topics. Create enthusiasm score that has a geographic component.
+	- Use "proof of impact": Financial Institutions Funding -> Impact (what is beta here?)
+	- How to measure "effectiveness" of social impact bonds: typical success payment?
+	- Cost-Benefit Analysis
+	- Return on Investment
+	- Return on Engagement
+	- Return on Time
+	- are Agg Success Payments over term < Opportunity cost of not doing project?
+	- start with smaller cities first (Alex's idea)
+	- 1-2 pages (Sully's idea) targeting different kind of interests
+	- Choose 3-5 smart city/4th industrial rev topics
+	- Macro Insights: word-cloud analyis
+	- Micro Insights: what are communities actually discussing that has realistic outcomes?
+	- Conclusion:
+		i. What do people already care about?
+		ii. If SIBI does X projects, government can handle projects with opportunity costs Y dollars.
+		iii. Are you interested in what people are talking about on forums?
+		iv. Are you interested in a market place for project proposals?
+		v. We will clean-up citizen project proposals and parameterize them.
+		vi. KPIs, success payments, project management
+		vii. Save government money by optimizing where city resources go
+		viii. political lobbying platform to make your $ speak
+		ix. government cares less about what people want unless a product like sibi exists.
+		x. SIBI uses smart lobbying to modernize cities into smart cities
+		xi. People often don't know their best interests. SIBI self-reiforces issues highlighted
+		in community discussions.
+		xii. What do people want that intersects with smart city topics?
+
+2. begin revenue and cost model projections for data sales (use WEF grant projections), server costs, forum api costs.
+
+3. create nlp model, deploy to prod, and begin webscraping forum data.
+
+4. begin marketing campaign on forums. Get api keys. tit for tat trade of advertising with providing data insights to our customers. Avoid letting forums take a percentage of revenue, if anything, just buy the keys. 
+
+5. Website design.
+a. government dashboard
+b. citizen matrix and map dashboard
+c. landing page and educational material
+d. KYC page
+e. login page
+f. survey page + theme page
+
+
+X. Alternative Datasources:
+a. AtlasAI (road networks and building infrastructure)
+
+
+#-----------------------------------------------------------------------------#
+
+# Quotes
+
+(1)
+""Ovacik suggests that citizens “do not have access to fund or affect these (SIB) instruments at this time.” He believes that broader citizen engagement and investment in SIBs would be beneficial in ways that institutional investors such as foundations or Wall Street can’t deliver""
+
+https://nonprofitquarterly.org/hello-crowdfunding-meet-social-impact-bonds/
+
+(2)
+https://www.cpr.org/2019/04/11/denvers-big-3-lobbyists-have-deep-relationships-with-city-government-and-mayor-michael-hancock/
+
+(3)
+"The key to (centers for industrial organization) 
+CIO success is building objectives by developing key performance indicators (KPIs) that detect stakeholder priorities and measure success and impact. 
+
+(4)
+Communities lacking "financial power" require advocation. Opportunities for advocation can be identified by correlating demographic and socio-economic attributes at local geographies against issue-saliency.
+"By having a more robust view of community financial well-being and consumer demand through a “middle data” solution, citizen scientists can better assess the purchasing power and economic circumstances of at-risk communities."
+https://www.newamerica.org/public-interest-technology/blog/financial-inclusion-citizen-participation-project-bridging-data-gap-low-income-communities/
+
+(5)
+"To cope with migration pressure the cities of the future need to become smart."
+"
+    Investing in the right data platforms ─ through public and private partnership where technological solutions are pivotal ─ will build smart city solutions."
+https://atlas.dc.siemens.com/latestthinking/articles/where-smart-cities-and-industry-4-0-intersect/
+
+(5)
+Agile Governance:
+"Agile governance can also ensure long-term sustainability by creating mechanisms to constantly monitor and “upgrade” policies governing emerging technologies, as well as by sharing the workload with private sector and civil society to maintain the relevant checks and balances."
+http://www3.weforum.org/docs/WEF_Agile_Governance_Reimagining_Policy-making_4IR_report.pdf
+
+
+
+#----------------------------------------------------3
+# City Public Works Parameters
+https://www.denvergov.org/content/denvergov/en/denver-department-of-public-works/projects/current/washington-street-study.html
+
+Study Goals
+Study Map & Limits
+Info Sheets
+
+USA Small Business Administration:
+https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan
+
+#-----------------------------------------------------------------------------------------------#
+
+# Terminology
+
+1) Theme Identification: use of ml to form word-clouds that represent the lexicon-corpus of a theme.
+2) Theme Synthesization: similar topics loosely fuse with one another into an association/movement.
+This is important because projects need to comprehensively consider complementary topics so that 
+they are "arresting"
+3) Impact Bond Financing: the financial feasibility of a project 
+4) Common Marketplace: mechanism in which public officials and local special interests area 
+automatically alerted of 1-3.
+
