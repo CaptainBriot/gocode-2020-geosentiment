@@ -1,0 +1,25 @@
+- mine Twitter data using lexicon key words. If theme is identifiable, then solve for sentiment and sentiment severity. Get location data.
+
+- store these data in db with timestamp trunc.
+
+- setup interactive strategic map using census blocks.
+
+- get demographic data.
+
+- get road data.
+
+- model hyperclusters of sentiment data with demographic data over time. Isolate spatial component of hyperclusters on the strategic map.
+
+- build market place and feed this data into the sentiment db. Voting protocol is now the severity weight on sentiment.
+
+- use social network models to model how a political campaign in a neighborhood spills across hyperclusters. User can simulate broadcast campaigns. This is freemium at small usages.
+
+- implement messaging and user broadcasting function. This requires user to pay in btc after exceeding a ceiling.
+
+- implement advocacy and enemy modeling, where users can identify influencers that are running similar campaigns targeting similar hyperclusters. They may be running the same theme but the opposite sentiment. This is how enemies are discerned from friends. Identification is free but messages cost money after you hit a daily ceiling.
+
+- utility of platform comes from blasting your opponents. The platform is meant to expose adversaries to one another so that they can actually have verbal engagements. Users will create an account in order to broadcast toxic messages in obscene quantities. This ensures that people with too much time on their hands aren't oversampled by design.
+
+Consider two clusters that are different. Corp comes in and targets one of them with something they may need. They target the gentry which isn't in the interest of the other. Sibi needs to proxy an opposing force that helps the other cluster realize that something is adversely affecting it, so that it can have agency (through government representation) to counteract astroturfing.
+
+This means that the first customers must be district councils, followed by developers. These two can usually be at odds. Councils get the service for free. Developers pay. Any government higher than the district level pays. The platform is meant to preserve localism in the midst of regional conformal forces

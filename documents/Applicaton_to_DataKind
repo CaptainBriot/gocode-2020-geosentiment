@@ -1,0 +1,47 @@
+I.  What does the world look like when your organization has fulfilled its mission?
+
+We at SIBI have undertaken the task of democratizing the planning and financing of municipal projects. Our approach seeks to embolden citizens, special-interests (e.g. corporate, real-estate, trades), and city governments alike to contribute public project proposals to a common marketplace. Here, engaged citizens propose, discuss, vote-on, and optionally stake dollars on project proposals that matter most to their communities. Citizen activity on the SIBI platform is presented to city governments and special-interests so that they can gauge the nature of support for specific projects. Elected officials would then use this information to decide which projects to issue social impact bonds for. Money staked by citizens would be used as principal for these bonds, eventually generating a return for the individuals who invested. SIBI therefore intermediates citizen participation in the project selection process and ultimately produces superior project investment decisions by local governments.  
+
+SIBI induces “agile governance” by standardizing project proposal processes and parameters. First, a city’s project acceptance criteria are required parameters for any projects proposed on the SIBI platform. Second, SIBI automatically classifies projects on the common marketplace across various public-works themes, making it possible to discover conflicts or complements of interest between projects over space and time. Conflicts and complements of interest across project proposals are often not fully realized between special-interests until project proposals go up to vote in city council. Special-interests may have neglected important demographics over space that are starkly opposed to their project proposals; citizens may be unaware of advocate groups that support project proposals similar to their own. SIBI makes it easy for users to explore possible opportunity costs in any city infrastructural project undertaking. Citizens can therefore use SIBI as a research tool to discover alternative project undertakings that might otherwise have been neglected or obfuscated.
+
+SIBI aims to consolidate project discourses found on insular echo-chamber forums into a single platform by modelling such discourses into common themes. Project proposals on the platform are either collected from disparate forum discourses and “fit” to a machine-learned model of a particular topic/theme in the “Smart Cities” or “Fourth Industrial Revolution” literature or are manually added by platform users. Each topic/theme’s model is carefully constructed from a lexicon that accurately captures economic logic and sentiments “for” or “against” that particular topic/theme. SIBI aims to help citizens/special-interests drill down into any public-works theme in order to explore important conflicts or complements of interest.
+
+SIBI topics/themes are geocoded such that they can be used in a Geographic Information System. Any engaged citizens may freely use SIBI to explore their favorite project proposals on a map. Citizens may discover conflicts with other projects that have been proposed unknowingly in their own neighborhoods. Contrastingly, special-interests and cities may use SIBI for identifying demographics that may be for or against their project proposals. SIBI ultimately acts as a multi-sided platform that aims to bring every special-interest and citizen to the seats of city council.
+
+
+II.  How will your organization achieve its mission? What are the core programs you undertake?
+
+SIBI is a multi-sided website platform that provides “free” project exploration tools to citizens while offering data-subscription services to cities and special-interests. Free tools allow users to identify public-works projects classified by a development theme (e.g. bicycle lanes) and geolocation (e.g. neighbourhood). The subscription tool correlates demographic variables to measures of the project proposal’s support. Project proposal support is measured in terms of votes and staked dollars (optional contributions held in escrow) from SIBI users on proposed projects. SIBI models the potential conflict or complements of interest between project proposals across affected geographies, which empowers users to gauge potential affinities between project proposals over space. These “matching and contrasting” tools are also subscription features.
+
+Each public-works project proposal sits in the SIBI common marketplace. This marketplace retroactively identifies themes/topics from project proposal discourses that are found on disparate and isolated internet discussion forums. Topic identification implies gathering historic forum discourse data and modelling it in order to identify central themes. “Topic identification” requires a backend machine learning application that models the lexicon of any given special-interest’s forum conversation. Specifically, this means training word-cloud models of topics/themes with carefully researched sets of lexicons, which contain the economic and sentiment logic surrounding a topic/theme. For example, take the theme ”Bicycle Lane” where the sentiment equals ”Proponent”. The word-cloud model for this cross-section might include phrases like “safety” or “C02 reduction”. If sentiment equals ”Opponent” here, phrases might include road-centric expressions like “traffic congestion”.
+
+Topic identification pre-populates the SIBI common marketplace, leading to network effects on the platform. Citizens can study retroactively added topics/themes to the platform, inspiring them to manually propose on the common marketplace directly. SIBI allows end-users to actively create narrowly defined project proposals on the marketplace in a guided process. Citizens manually describe the pros, cons, and anticipated economic impacts of their proposed projects to help locate the project in well-defined thematised lexicon.
+
+Topic identification is therefore a critical R&D process: forum discourses are thematically identified, geocoded, and their lexicons carefully modelled. Both cities and special-interests either utilize these subscription data to identify proponents for their projects or potential conflicts of interest. Since project support is transparent on the common marketplace, planners can gauge the social impact of proposed projects as they are related to one another over space and time. 
+
+Lastly, the SIBI project aims to standardize parameters that are common to all project proposals. Project proposal parameters might include “Study Goals”, “Study Map & Limits”, and “Public-Works Type”. R&D is undertaken to identify cities’ minimum acceptable criteria for project proposal parameters. The values for these parameters, either user-provided or modelled from disparate forum discussions, are not totally comprehensive, but are actionable. By “parameterizing” project proposals in the SIBI common marketplace, proposals can be compared apples-to-apples and refined by professional city planners or officials before considered for a social impact bond. SIBI thus engenders a sense of trust between citizens, special-interests, and cities by offering complete and standardized information transparency during project-selection decision making processes.
+
+III.  What are some of the pain points or challenges your organization faces?
+
+Public adoption of the SIBI marketplace is a two step process. Users may not use the platform if 
+there is not enough preexisting content that contrasts manually added project proposals. 
+
+
+
+IV.  What data science project do you think would help you address these issues or pain points?
+
+
+V.   How would your organization know that this DataKind project was successful?
+
+
+VI.  Describe the data you would like to use for this project.
+
+
+what tables of data do you have? (e.g. a table for all the applications to our program)
+what does each row of data represent (e.g. an individual, a state, a survey response)
+what are the fields/columns in the table? (e.g. location, time, a paragraph on feedback)
+what is the size of the data - for example, how many rows? how many months or years of data? how many countries?
+format (e.g. Excel, PDF, csv)
+
+
+VII.  We see DataKind as a bridge between the non-profit and data communities. In addition to addressing your specific data needs, we want to share the importance of data with the broader non-profit community and create a commitment to thinking of data as a critical resource in everyone's mission. If there are other members of your organization or other organizations who could be part of this conversation, from field staff to CTOs, please list them below.
